@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello! In the past year I was active on Gitlab.
+Hello! In the years 2020/2021 I was active on Gitlab.
 
 ## Contact
 
