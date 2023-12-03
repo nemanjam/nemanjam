@@ -1,9 +1,11 @@
 <img src="gitlab.png" alt="My Gitlab calendar">
 
+<small>In the years 2020/2021 I was active on Gitlab.</small>
+
 ## About me
 
-Hello! In the years 2020/2021 I was active on Gitlab.
+I am a professional React/Next.js, Node.js developer, with .NET/C# background and lately interest in FastAPI and Python. 
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/nemanja-mitic/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+If you want to work with me you can contact me via Linkedin: <strong><a href="https://www.linkedin.com/in/nemanja-mitic/">https://www.linkedin.com/in/nemanja-mitic</a></strong>
