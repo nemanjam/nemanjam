@@ -1,6 +1,6 @@
 <img src="gitlab.png" alt="My Gitlab calendar">
 
-<small>In the years 2020/2021 I was active on Gitlab.</small>
+<sub>In the years 2020/2021 I was active on Gitlab.</sub>
 
 ## About me
 
