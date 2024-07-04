@@ -4,7 +4,7 @@ In the years 2020/2021 I was active on Gitlab.
 
 ## About me
 
-I am a professional React/Next.js, Node.js developer, with .NET/C# background and lately interest in FastAPI and Python. 
+I am a professional React/Next.js, Node.js developer, and lately with interest in FastAPI and Python. 
 
 ## Contact
 
