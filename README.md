@@ -8,6 +8,6 @@ I am a professional React/Next.js, Node.js developer, and lately with interest i
 
 ## Contact
 
-You can contact me via Linkedin: 
+I am looking for a new job, if you want to work with me you can contact me via Linkedin:
 
 <strong><a href="https://www.linkedin.com/in/nemanja-mitic/">https://www.linkedin.com/in/nemanja-mitic</a></strong>
