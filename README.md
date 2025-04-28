@@ -6,6 +6,7 @@ More about me on: **https://nemanjamitic.com**
 
 ### Latest articles
 
+- [Expose home server with Rathole tunnel and Traefik](https://nemanjamitic.com/blog/2025-04-29-rathole-traefik-home-server)
 - [Expose local dev server with SSH tunnel and Docker](https://nemanjamitic.com/blog/2025-04-20-ssh-tunnel-docker)
 - [Build a random image component with Astro and React](https://nemanjamitic.com/blog/2025-04-06-random-image-component)
 - [Build an image gallery with Astro and React](https://nemanjamitic.com/blog/2025-04-02-astro-react-gallery)
